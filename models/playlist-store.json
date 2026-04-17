@@ -7,8 +7,8 @@
       "songs": [
         {
           "id": "04",
-          "title": "Piano Sonata No. 3",
-          "artist": "Beethoven"
+          "title": "Piano Sonata No. 3.",
+          "artist": "Beethovens"
         },
         {
           "id": "05",
@@ -62,7 +62,13 @@
       "title": "symphonies 2",
       "rating": 3,
       "date": "2026-03-27T13:47:14.452Z",
-      "songs": []
+      "songs": [
+        {
+          "id": "1006fc1b-2850-4687-8c0b-f573dd081067",
+          "title": "symphonies ",
+          "artist": "john"
+        }
+      ]
     },
     {
       "id": "3c0e2397-8668-43ea-9cf4-f01e60390908",
